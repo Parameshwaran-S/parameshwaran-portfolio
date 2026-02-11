@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 const Projects = () => {
     const projects = [
         {
-            title: 'Fluence Line Automation',
+            title: 'Assembly Line Automation',
             role: 'Power Platform Lead',
             descriptions: [
                 'Developed an assembly line automation and traceability solution for a manufacturing environment.',
